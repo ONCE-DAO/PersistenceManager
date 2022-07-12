@@ -1,9 +1,9 @@
 {
-  "name": "--",
+  "name": "PersistanceManager",
   "version": "0.0.1",
   "description": "",
   "main": "index.mjs",
-  "namespace": "--",
+  "namespace": "tla.EAM.UcpComponent",
   "onceDependencies": [
     "Once"
   ],
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "--"
   },
-  "author": "##UserName##",
+  "author": "Benedikt Eckstein",
   "license": "AGPL-3.0",
   "bugs": {
     "url": "https://github.com:ONCE-DAO/##RepoName##/issues"
